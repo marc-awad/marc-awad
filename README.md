@@ -9,7 +9,7 @@
 
 ## 🌱 Currently Learning  
 - Les concepts fondamentaux en informatique : **Développement**, **Réseaux**, **Bases de données**, **Systèmes d'exploitation**, et **Gestion de projets**.  
-- La gestion de versions avec **GitHub** et l'organisation de projets via des outils comme ClickUp.  
+- La gestion de versions avec **GitHub** et l'organisation de projets via des outils comme **ClickUp**.  
 
 ## 📫 How to Reach Me  
 📧 Email : [marc.awad@supdevinci-edu.fr](mailto:marc.awad@supdevinci-edu.fr)  
