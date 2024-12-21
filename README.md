@@ -1,21 +1,21 @@
 # 👋 Hello, I’m Marc AWAD!
 
-🎓 **Étudiant en Informatique** à Sup de Vinci - Paris en Bachelor Développement (RNCP Niveau 6 : Coordinateur de Projet Informatique).  
-🌟 **Ambition** : Trouver une alternance et développer mes compétences en programmation et gestion de projets.
+🎓 **Computer Science Student** at Sup de Vinci - Paris, pursuing a Bachelor’s in Development (RNCP Level 6: IT Project Coordinator).  
+🌟 **Ambition**: Find a work-study opportunity and enhance my skills in programming and project management.
 
 ## 👀 Interests  
-- **Développement** : Création de sites web natifs, développement de jeux vidéo avec Pygame, et apprentissage des principaux langages de programmation.  
-- **Lecture** : Passionné par les livres de développement personnel, de psychologie, et d'investissement.  
+- **Development**: Creating native websites, developing video games with Pygame, and learning major programming languages.  
+- **Reading**: Passionate about self-development, psychology, and investment books.  
 
 ## 🌱 Currently Learning  
-- Les concepts fondamentaux en informatique : **Développement**, **Réseaux**, **Bases de données**, **Systèmes d'exploitation**, et **Gestion de projets**.  
-- La gestion de versions avec **GitHub** et l'organisation de projets via des outils comme **ClickUp**.  
+- Fundamental concepts in computer science: **Development**, **Networks**, **Databases**, **Operating Systems**, and **Project Management**.  
+- Version control with **GitHub** and project organization tools like **ClickUp**.  
 
 ## 📫 How to Reach Me  
-📧 Email : [marc.awad@supdevinci-edu.fr](mailto:marc.awad@supdevinci-edu.fr)  
-💼 LinkedIn : [marc-awad](https://www.linkedin.com/in/marc-awad)  
+📧 Email: [marc.awad@supdevinci-edu.fr](mailto:marc.awad@supdevinci-edu.fr)  
+💼 LinkedIn: [marc-awad](https://www.linkedin.com/in/marc-awad)  
 
 ## 😄 Pronouns  
-- He/Him (Il/Lui)
+- He/Him
 
-Merci d’avoir visité mon profil ! 🚀 N'hésitez pas à explorer mes dépôts ou à me contacter pour discuter et collaborer. 😄
+Thank you for visiting my profile! 🚀 Feel free to explore my repositories or contact me to chat and collaborate. 😄
