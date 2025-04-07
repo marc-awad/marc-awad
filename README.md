@@ -99,8 +99,8 @@ En dehors du code, je suis un lecteur passionné de livres sur le développement
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marc-awad&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-awad&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
 ## 🌱 Actuellement en apprentissage
