@@ -44,7 +44,7 @@ A static website designed to present a restaurant, its menu, and location. Focus
 A tool that calculates VLSM subnetting and automates the configuration of a DHCP server and a router. Designed to streamline network setup in lab environments.
 - **Technologies:** Python, PowerShell, Cisco CLI, HTML, CSS, JavaScript
 - [🔗 View Live](https://netslicer.vercel.app/)
-- [💻 View Code](https://github.com/marc-awad/vlsm-dhcp-router)
+- [💻 View Code](https://github.com/marc-awad/projet-etude-b2)
 
 ### 🛡️ Clash of Clans Clan Dashboard
 A web application that displays real-time data about a Clash of Clans clan, including member stats, war logs, and donations.
