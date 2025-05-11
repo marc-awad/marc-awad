@@ -34,25 +34,24 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 Adventure Game (Pygame)
-A 2D adventure game featuring turn-based combat and world exploration.
-- **Technologies:** Python, Pygame
-- [🔗 View Project](https://github.com/marc-awad/projet-jeu)
+### 🍽️ Restaurant Showcase Website
+A static website designed to present a restaurant, its menu, and location. Focused on clean design, responsiveness, and accessibility.
+- **Technologies:** HTML, CSS, JavaScript
+- [🔗 View Live](https://marc-awad.github.io/projet-site-vitrine-restaurant/)
+- [💻 View Code](https://github.com/marc-awad/projet-site-vitrine-restaurant)
 
-### 🌐 E-commerce Platform
-Full-featured online store with shopping cart, payments, and user management.
-- **Technologies:** Node.js, Express, MongoDB, React
-- [🔗 View Project](https://github.com/marc-awad/projet-ecommerce)
+### 🧮 VLSM Subnetting & Network Automation
+A tool that calculates VLSM subnetting and automates the configuration of a DHCP server and a router. Designed to streamline network setup in lab environments.
+- **Technologies:** Python, PowerShell, Cisco CLI, HTML, CSS, JavaScript
+- [🔗 View Live](https://netslicer.vercel.app/)
+- [💻 View Code](https://github.com/marc-awad/vlsm-dhcp-router)
 
-### 📱 Task Management Mobile App
-Task organizer with notifications and cloud synchronization.
-- **Technologies:** React Native, Firebase
-- [🔗 View Project](https://github.com/marc-awad/todo-app)
+### 🛡️ Clash of Clans Clan Dashboard
+A web application that displays real-time data about a Clash of Clans clan, including member stats, war logs, and donations.
+- **Technologies:** Vue.js, TypeScript, Vite, Clash of Clans API
+- [🔗 View Live](https://coc-app-two.vercel.app/)
+- [💻 View Code](https://github.com/marc-awad/coc-dashboard)
 
-### 🤖 User Management API
-RESTful API with JWT authentication and comprehensive documentation.
-- **Technologies:** Express.js, MongoDB, JWT
-- [🔗 View Project](https://github.com/marc-awad/api-restful)
 
 ## 🌱 Currently Learning
 - Advanced software development concepts and methodologies
