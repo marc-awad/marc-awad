@@ -17,6 +17,8 @@
 ### Front-end Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+
 
 ### Back-end & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -50,7 +52,6 @@ A tool that calculates VLSM subnetting and automates the configuration of a DHCP
 A web application that displays real-time data about a Clash of Clans clan, including member stats, war logs, and donations.
 - **Technologies:** Vue.js, TypeScript, Vite, Clash of Clans API
 - [🔗 View Live](https://coc-app-two.vercel.app/)
-- [💻 View Code](https://github.com/marc-awad/coc-dashboard)
 
 
 ## 🌱 Currently Learning
