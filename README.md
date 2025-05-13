@@ -68,7 +68,7 @@ A web application that displays real-time data about a Clash of Clans clan, incl
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marc-awad&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-awad&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-awad&exclude_repo=big-data-project-python&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
 ## 📫 Connect With Me
