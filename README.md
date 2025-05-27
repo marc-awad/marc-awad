@@ -73,10 +73,7 @@ I’m driven by the desire to build impactful digital solutions. Whether it’s 
 
 ---
 
-### 🛡️ Clash of Clans Clan Dashboard  
-📊 Displays real-time data (members, wars, donations) using the Clash of Clans API.  
-🔧 **Tech:** Vue.js, TypeScript, Vite  
-🌐 [Live App](https://coc-app-two.vercel.app/) | 💻 [Source Code](https://github.com/marc-awad/clash-of-clans-dashboard)
+
 
 ---
 
