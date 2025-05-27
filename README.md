@@ -58,11 +58,11 @@ I’m driven by the desire to build impactful digital solutions. Whether it’s 
 
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Showcase Website  
-🖥️ A static website to present a restaurant, its menu, and location.  
-💡 Focused on design, responsiveness, and accessibility.  
-🔧 **Tech:** HTML, CSS, JavaScript  
-🌐 [Live Site](https://marc-awad.github.io/projet-site-vitrine-restaurant/) | 💻 [Source Code](https://github.com/marc-awad/projet-site-vitrine-restaurant)
+### 🏥 HSV Hospital – Appointment Booking Application  
+🖥️ A responsive web application to book and track medical appointments.  
+🔧 **Tech:** Vue.js, TypeScript, Firebase, Vercel  
+🌐 [Live Site](https://hsv-hospital.vercel.app/) | 💻 [Source Code](https://github.com/marc-awad/hsv-hospital)
+
 
 ---
 
