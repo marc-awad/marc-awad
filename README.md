@@ -2,7 +2,7 @@
 
 🎓 Passionate Computer Science Student at Sup de Vinci, Paris  
 💡 Developer focused on building clean, efficient and meaningful software  
-🚀 Actively seeking a **work-study position (May 2025)** to sharpen my skills in software development and project management.
+🚀 Actively seeking a **work-study position (Sept 2025)** to sharpen my skills in software development and project management.
 
 > _"I turn ideas into code and challenges into learning opportunities."_
 
@@ -55,8 +55,7 @@ I’m driven by the desire to build impactful digital solutions. Whether it’s 
 ## Highlights
 
 - Built a VLSM automation tool used in networking labs  
-- Deployed full-stack apps using **Vercel** & **GitHub Actions**  
-- Mentored peers on Git and front-end best practices  
+- Deployed full-stack apps using **Vercel** & **GitHub Pages**  
 - Experience working with REST APIs, authentication & deployment  
 
 ---
