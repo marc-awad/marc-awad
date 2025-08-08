@@ -30,6 +30,8 @@ I’m driven by the desire to build impactful digital solutions. Whether it’s 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Back-end & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -42,8 +44,11 @@ I’m driven by the desire to build impactful digital solutions. Whether it’s 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ---
 
@@ -69,6 +74,14 @@ A responsive web application to book and track medical appointments.
 Tool that calculates VLSM subnetting and automates DHCP & router config for Cisco environments.  
 **Tech:** Python, PowerShell, Cisco CLI, HTML, CSS, JavaScript  
 🌐 [Live App](https://netslicer.vercel.app/) | 💻 [Source Code](https://github.com/marc-awad/projet-etude-b2)
+
+---
+
+### Cathé Copte  
+A modern web application for managing attendance at the catechism of the Coptic Orthodox Church of Paris.  
+**Tech:** Nuxt.js, TypeScript, Tailwind CSS, Supabase, Vercel  
+🌐 [Live App](https://cathecopte.vercel.app/)
+
 
 ---
 
